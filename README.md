@@ -22,7 +22,7 @@ I thrive on discovering new technologies, building secure systems, and sharing i
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="120">
   <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg" width="120">
   <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" width="120">
-  <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-ar21.svg" width="120">
+  <img src="https://share.google/Ah9efZnEkoCIADeWX">
   <img src="https://www.vectorlogo.zone/logos/html5/html5-ar21.svg" width="120">
 </div>
 
