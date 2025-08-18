@@ -15,7 +15,7 @@ I thrive on discovering new technologies, building secure systems, and sharing i
 </div>
 
 - 💼 Interested in collaborating, building, or securing something cool? Get in touch!
-- 💬 Got a question or curious about my work? Feel free to ask! HMU on [LinkedIn](https://linkedin-placeholder.com), [Twitter](https://twitter-placeholder.com), or [Personal Site](https://your-website-placeholder.com).
+- 💬 Got a question or curious about my work? Feel free to ask! HMU on [LinkedIn](https://https://www.linkedin.com/in/ibrahim-kobina-quansah-5a5a34180?trk=contact-info), [Twitter](https://twitter-placeholder.com), or [Personal Site](https://your-website-placeholder.com).
 
 <div class="badges-intro" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="120">
