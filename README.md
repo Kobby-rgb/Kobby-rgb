@@ -1,4 +1,4 @@
-[![Header](./banner.png)](https://your-website-placeholder.com)
+[![Header](./banner.jpg)](https://your-website-placeholder.com)
 
 # Oi, World! I'm Kobby-rgb 👋
 
