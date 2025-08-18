@@ -1,6 +1,6 @@
 [![Header](./banner.jpg)](https://your-website-placeholder.com)
 
-# Oi, World! I'm Kobby-rgb 👋
+# Welcome! I'm Ibrahim 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=Kobby-rgb&label=Profile%20views&color=60598F&style=flat)
 
