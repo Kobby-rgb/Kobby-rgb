@@ -6,7 +6,7 @@
 
 <div class="github-introduction">
 
-I’m a passionate Software Engineer and Cybersecurity Analyst, blending creativity with technical expertise in full stack development. From engineering robust web apps to fortifying digital assets, I thrive at the intersection of innovation and security. My journey spans software planning, building sleek user experiences, and hunting vulnerabilities before they become headlines.
+I am a dedicated Software Engineer and Cybersecurity Analyst with nearly 5 years of GitHub experience. I specialize in full stack development, engineering robust web applications, and securing digital assets. My expertise spans software planning, user experience design, and proactive vulnerability assessment.
 
 Curious by nature, I’m always researching new technologies, tinkering with robotics, and creating content that empowers the tech community. Let’s connect, collaborate, and shape the future—one bold project at a time! 🚀.
 
