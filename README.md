@@ -26,14 +26,91 @@ I thrive on discovering new technologies, building secure systems, and sharing i
 </div>
 
 ## 🌟 Featured Projects
-
 Here are some of my favorite projects:
 
-- **[Project 1 Placeholder](#)**: Brief description about this project.
-- **[Project 2 Placeholder](#)**: Brief description about this project.
-- **[Project 3 Placeholder](#)**: Brief description about this project.
+🧩 Software Engineering Projects
 
-*Check out my repos for more awesome work!*
+- **💰Payroll Management System**:
+Tech Stack: PHP / Python / Java, MySQL / SQL Server
+A full-featured payroll system built for small to medium-sized organizations.
+
+Key highlights:
+Automated salary computation (taxes, allowances, deductions)
+Role-based access (Admin, HR, Finance)
+Payslip generation & export (PDF)
+Secure authentication and audit logging
+Optimized database normalization for performance and accuracy.
+
+- **✈️ Travel & Transport Management System**: 
+Tech Stack: PHP / Python, MySQL, REST APIs
+A centralized platform for managing travel bookings and logistics.
+
+Key highlights:
+Trip scheduling and booking management
+Customer and vendor records
+Expense tracking and reporting
+Admin dashboard with analytics
+Input validation and secure data handling.
+
+- **🛒 E-Commerce Admin Dashboard**: 
+Tech Stack: PHP / JavaScript, MySQL, HTML/CSS
+An enterprise-style backend dashboard for managing online stores.
+
+Key highlights:
+Product, category, and inventory management
+Order tracking and fulfillment workflow
+User and role management
+Sales analytics and reporting
+Designed for scalability and future API integration.
+
+🛡️ Cybersecurity Projects
+
+🔍 Vulnerability Assessment & Penetration Testing Lab
+Tools: Nmap, Metasploit, Burp Suite, Nikto, OWASP ZAP
+A hands-on penetration testing project simulating real-world attacks.
+
+Key highlights:
+Network and web application scanning
+Identification of OWASP Top 10 vulnerabilities
+Exploitation proof-of-concept
+Risk rating and remediation recommendations
+Professional-style security assessment report
+
+🔐 Secure Authentication & Authorization System
+Tech Stack: Python / PHP, JWT, bcrypt, RBAC
+A secure authentication system designed following modern security best practices.
+
+Key highlights:
+Password hashing and salting
+Role-Based Access Control (RBAC)
+JWT-based session management
+Protection against brute-force and replay attacks
+Secure login audit logs
+
+📡 Network Security Monitoring & Log Analysis Tool
+Tools: Wireshark, ELK Stack (Elasticsearch, Logstash, Kibana), Python
+A defensive security project focused on detecting suspicious activity.
+
+Key highlights:
+Network traffic capture and inspection
+Centralized log collection and analysis
+Detection of anomalies and attack patterns
+Incident response workflow simulation
+Visual dashboards for security insights
+
+☁️ Cloud & Web Application Security Hardening
+Focus Areas: Web Security, Cloud Security, Secure Configurations
+A project centered on securing deployed applications and infrastructure.
+
+Key highlights:
+HTTPS & TLS configuration
+Secure server hardening practices
+Input validation & SQL injection prevention
+Cloud IAM best practices
+Backup, disaster recovery & availability planning
+
+✨ Each project reflects my commitment to building functional, secure, and scalable systems that solve real problems.
+
 
 ## 📈 My GitHub stats
 
